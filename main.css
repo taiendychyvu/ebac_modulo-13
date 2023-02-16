@@ -1,0 +1,46 @@
+header {
+    position: sticky;
+    top: 0%;
+    left: 0%;
+    z-index: 1;
+    background-color: rgb(223, 223, 223);
+}
+
+.navbar-nav .nav-link.active {
+    color: #fff;
+}
+
+.nav-link {
+    text-align: center;
+}
+
+.carousel-item img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.carousel-caption {
+    bottom: 7.5rem;
+}
+
+body {
+    background-color: rgb(223, 223, 223);
+}
+
+.post {
+    margin-top: 25px;
+}
+
+.card-body a {
+    width: 100%;
+}
+
+.card-title {
+    color: #fff;
+    font-weight: bold;
+}
+
+.titulo {
+    margin-top: 25px;
+    
+}
